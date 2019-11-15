@@ -71,7 +71,7 @@ h2 {
 #features h3 {
     font-weight: 700;
     color: black;
-    font-size: 1.5rem;
+    font-size: 1.25rem;
 }
 
 #features p {
@@ -90,7 +90,7 @@ h2 {
     color: #FF4C68;
 }
 
-.mid-cont {
+.feature-box {
     text-align: center;
 }
 
@@ -151,7 +151,7 @@ h2 {
 }
 
 #cta h3 {
-    color: #FFFFFF;
+    color: white;
     font-weight: 700;
     font-size: 2rem;
 }
